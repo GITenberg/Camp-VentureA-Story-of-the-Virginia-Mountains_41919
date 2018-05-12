@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41919#Camp-VentureA-Story-of-the-Virginia-Mountains
 gutenberg_issued: '2013-01-26'
 gutenberg_type: Text
 identifiers:
